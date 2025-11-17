@@ -5,7 +5,7 @@
     "homeworld":"Macragge",
     "primarch":"Roboute Guiliman",
     "specialty": "Codex-adherent combined arms",
-    "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/refs/heads/main/ultramarine.png",
+    "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/main/ultramarine.png",
     "lore":"The Ultramarines are the XIIIth Legion of the original Space Marine Legions, embodying the ideals of discipline, strategy, and loyalty to the Imperium. Led by their Primarch Roboute Guilliman, they are the principal proponents and practitioners of the Codex Astartes, a foundational text for Space Marine organization."
   },
   {
@@ -14,8 +14,9 @@
     "homeworld":"Baal",
     "primarch":"Sanguinius",
     "specialty": "Assault troops",
-    "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/refs/heads/main/bloodAngel.png",
+    "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/main/bloodAngel.png",
     "lore":"The Blood Angels are one of the First Founding Space Marine Chapters, renowned for their angelic appearance, noble demeanor, and a tragic genetic flaw known as 'The Flaw'. This flaw manifests as the 'Red Thirst' (a berserker fury and urge for blood) and the 'Black Rage' (a psychic trauma causing them to relive Sanguinius's death), defining their lore and combat doctrine."
   }
 
 ]
+
