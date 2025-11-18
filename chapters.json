@@ -16,7 +16,18 @@
     "specialty": "Assault troops",
     "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/main/bloodAngel.png",
     "lore":"The Blood Angels are one of the First Founding Space Marine Chapters, renowned for their angelic appearance, noble demeanor, and a tragic genetic flaw known as 'The Flaw'. This flaw manifests as the 'Red Thirst' (a berserker fury and urge for blood) and the 'Black Rage' (a psychic trauma causing them to relive Sanguinius's death), defining their lore and combat doctrine."
+  },
+  {
+    "id": 3,
+    "name":"Dark Angels",
+    "homeworld":"Caliban",
+    "primarch":"Lion El'Jonson",
+    "specialty": "Death Wings Assault ",
+    "iconUrl":"https://raw.githubusercontent.com/MysteriousDragon9/space-marine-lore/main/darkAngels.png",
+    "lore":"The Dark Angels, originally the I Legion and known as the First Legion, are among the most enigmatic Space Marine Chapters. Consumed by a millennia-long secret hunt for their succumbing to Chaos brethren, known as the 'Fallen Angels,' they operate with extreme secrecy and a rigid internal hierarchy."
   }
+  
 
 ]
+
 
